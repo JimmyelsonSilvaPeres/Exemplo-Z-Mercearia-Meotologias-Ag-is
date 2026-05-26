@@ -1,0 +1,7 @@
+CriarNovoUsuario(usuario, email, senha){
+	if(!ValidarEmail(email))
+		return erro;
+	CriarNovoUsuarioRepositorio(usuario, email, senha);
+
+
+}

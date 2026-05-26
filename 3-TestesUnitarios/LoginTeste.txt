@@ -1,0 +1,2 @@
+DeveRetornarEmailCorreto(ValidarEmail("teste@teste.com"));
+DeveRetornarEmailErrado(ValidarEmail("teste"));

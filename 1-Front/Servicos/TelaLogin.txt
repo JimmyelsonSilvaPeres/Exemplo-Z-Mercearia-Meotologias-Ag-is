@@ -1,0 +1,1 @@
+NovoUsuario(usuario, senha, email);
